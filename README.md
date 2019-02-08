@@ -4,8 +4,8 @@ There is also function fstat in ft_read_from_fd function to get the size of file
 Note: in future i will use libftprintf library, where will be all these functions + my realization of printf function. Available flags will be described in libftprintf project.
 
 The files are in the following folders:
-1)ft_lst (functions, used for list)
-2)ft_mem (functions for manipulating with memory)
+1)ft_lst (functions, used for list
+2)ft_mem (functions for manipulating with memory
 3)ft_put (functions to write something to the console)
 4)ft_str (functions for manipulating with string)
 5)ft_helpers (all the other funtcions)
